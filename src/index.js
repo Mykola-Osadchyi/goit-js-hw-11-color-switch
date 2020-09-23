@@ -1,3 +1,3 @@
 // import './js/theme-selection';
-// import './js/templating';
+import './js/color-switch';
 import './styles.css';
